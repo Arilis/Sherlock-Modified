@@ -1,6 +1,7 @@
 <p align=center>
-<h1>Modifications by Arilis</h1><br>
-<p>Added Results Folder</p>
+<h5>Modifications by Arilis</h5><br>
+<p>Added Results Folder</p><br>
+<h5>Original ReadMe.md</h5>
 <img src="https://user-images.githubusercontent.com/27065646/53551960-ae4dff80-3b3a-11e9-9075-cef786c69364.png"/>
 
 <br>
